@@ -15,7 +15,7 @@ object Tutorial1 {
                     "shape: box;" +
                     "size: 10px, 10px;" +
                     "fill-color: #777;" +
-                    "text-mode: hidden;" +
+                    "text-mode: normal;" +
                     "z-index: 0;" +
                     "}" +
                     "" +
